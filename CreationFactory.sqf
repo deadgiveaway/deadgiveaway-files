@@ -1,0 +1,2 @@
+_Creation_Factory_Container = createVehicle ["Box_IND_AmmoVeh_F", [16659.8,13403.2,0], [], 0, "CAN_COLLIDE"];
+_Creation_Factory_Container = [_this] execVM "R3F_LOG\USER_FUNCT\init_creation_factory.sqf";
